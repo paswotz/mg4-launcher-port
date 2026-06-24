@@ -1,1 +1,1 @@
-<img width="600" height="315" alt="MG4Launcher" src="https://github.com/user-attachments/assets/448678d2-5ab4-4d84-83aa-dcb660aa2a8a" />
+<img width="1200" height="630" alt="MG4 Launcher" src="https://github.com/user-attachments/assets/dffe6036-0249-4888-9154-9af12c313e1e" />
