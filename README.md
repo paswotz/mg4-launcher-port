@@ -54,6 +54,18 @@ Status | Model | Error | Known Issues | Release APK
 
 ---
 
+## ✨ Contribution & Support
+
+- Thanks to [`SliDeeN`](https://github.com/SliDeeN) for his great app [`MG4Control`](https://github.com/SliDeeN/MG4Control) and testing on SWI133
+- Thanks to [`suchhodler-boop`](https://github.com/suchhodler-boop) (XDA: `FrAsErTaG`) for testing on SWI165
+- Thanks to `san-sai` (XDA) for testing on SWI168
+
+> [!TIP]
+> **Want to join and support the project?**  
+> Feel free to drop me a private message on **[XDA](https://xdaforums.com/m/kruemelmonster96.13293805/)** letting me know which **MG4 model** you drive!
+
+---
+
 ## ⚠️ Safety Notice
 
 These APKs are **test builds for controlled debugging**. They may bypass or disable parts of the original launcher behavior while isolating compatibility problems.
