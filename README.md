@@ -35,8 +35,8 @@ Status legend for MG4 models:
 
 Status | Model | Error | Known Issues | Release APK
 | --- | --- | --- | --- | --- |
-| 🟠 | **SWI168** |  **Starts with UI but without services** | The launcher's user interface does not dynamically adapt to different screen sizes or resolutions yet. System services such as battery status, location tracking, and device telemetry currently return null values |
-| 🟠 | **SWI165** | **Starts with UI but without services** | The launcher's user interface does not dynamically adapt to different screen sizes or resolutions yet. System services such as battery status, location tracking, and device telemetry currently return null values |
+| 🟠 | **SWI168** |  **Starts with UI but without services** | The launcher's user interface does not dynamically adapt to different screen sizes or resolutions yet. System services such as battery status, location tracking, and device telemetry currently return null values. |
+| 🟠 | **SWI165** | **Starts with UI but without services** | The launcher's user interface does not dynamically adapt to different screen sizes or resolutions yet. System services such as battery status, location tracking, and device telemetry currently return null values. |
 | 🔴 | **SWI133** | **Launcher crashes on startup** | The launcher currently fails to boot and crashes immediately during the startup sequence. |
 
 ---
