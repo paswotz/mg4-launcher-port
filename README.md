@@ -33,11 +33,11 @@ Status legend for MG4 models:
 
 ## 📊 Current Model Status
 
-Status | Model | Error | Description | Release APK
+Status | Model | Error | Known Issues | Release APK
 | --- | --- | --- | --- | --- |
-| 🟠 | **SWI168** |  **Starts with UI but without services** | Installs and reaches `MainActivity.onResume`. No launcher crash seen in logs. CPAA service loop is patched out. |
-| 🟠 | **SWI165** | **Starts with UI but without services** | Active debug build with visible green `SWI165 UI DEBUG` overlay. Used to confirm whether the Activity renders or the content path stays empty. |
-| 🔴 | **SWI133** | **Launcher crashes on startup** | Built for the early `ClassNotFoundException` / `CoreComponentFactory` startup crash path. Does not include the diagnostic logcat collector. |
+| 🟠 | **SWI168** |  **Starts with UI but without services** | The launcher's user interface does not dynamically adapt to different screen sizes or resolutions yet. System services such as battery status, location tracking, and device telemetry currently return null values |
+| 🟠 | **SWI165** | **Starts with UI but without services** | The launcher's user interface does not dynamically adapt to different screen sizes or resolutions yet. System services such as battery status, location tracking, and device telemetry currently return null values |
+| 🔴 | **SWI133** | **Launcher crashes on startup** | The launcher currently fails to boot and crashes immediately during the startup sequence. |
 
 ---
 
